@@ -1,2 +1,2 @@
 # Commodity_Price_SQL_Project
-This repo is for the Commodity Price Project in SQL
+This repository contains SQL scripts for a variety of queries performed on "food prices" and "commodities" tables. The tasks involve data filtering, observation count, city and commodity listing, average prices calculation, summary statistics, price categorization, and join operations. These scripts serve as a practical guide for SQL data manipulation and analysis. Explore, adapt, and enjoy querying your datasets! 
